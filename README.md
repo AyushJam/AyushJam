@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AyushJam
-- 👀 I’m interested in Electrical and Computer Engineering, playing piano and reading! 
-- 🌱 I’m currently learning Computer Organization among many other subjects.
+- 👋 Hi, I’m @AyushJam, studying at IIT Madras.
+- 👀 I’m interested in Electrical and Computer Engineering, playing the keyboard and reading! 
+- 🌱 I’m currently learning Signal Processing in general, particularly images and mathematics.
 - 📫 How to reach me? Here's my email - ayushjamdar@gmail.com
 
 <!---
