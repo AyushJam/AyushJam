@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @AyushJam, studying at IIT Madras.
-- 👀 I’m interested in Electrical and Computer Engineering, playing the keyboard and reading! 
-- 🌱 I’m currently learning Signal Processing in general, particularly images and mathematics.
+- 👋 Hi, I’m @AyushJam, studying at UC San Diego.
+- I graduated from IIT Madras with a BTech in Electrical Engineering.
+- 👀 I’m interested in imaging systems, signal, and image processing.
+- 🌱 Beyond academics, I play the piano, and I love reading science and history. 
 - 📫 How to reach me? Here's my email - ayushjamdar@gmail.com
 
 <!---
